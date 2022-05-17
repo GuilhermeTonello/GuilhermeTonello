@@ -7,20 +7,63 @@ Olá, me chamo **Guilherme Carrara Tonello**, um estudande de Engenharia de Comp
 
 **Assuntos pessoais:**
 
-- 🌱 Atualmente estou estudando Java e Front-End.
-- 🤔 Tenho interesse em Java, JavaScript, desenvolvimento web etc...
-- 💼 Cursando bacharelado em Engenharia de Computação;
+- 🌱 Atualmente estou estudando Java, Angular e Flutter.
+- 🤔 Tenho interesse em Java, desenvolvimento web e mobile.
+- 💼 Cursando bacharelado em Engenharia de Computação.
 
-**Linguagens e ferramentas**  
+**Tecnologias**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
+<code>
+  <a href="https://www.java.com/pt-BR/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
+  </a>
+</code>
+<code>
+  <a href="https://spring.io/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png">
+  </a>
+</code>
+<code>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank>
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+  </a>
+</code>
+<code>
+  <a href="https://angular.io/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png">
+  </a>
+</code>
+<code>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
+  </a>
+</code>
+<code>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
+  </a>
+</code>
+<code>
+  <a href="https://git-scm.com/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+  </a>
+</code>
+<code>
+  <a href="https://help.ubuntu.com/kubuntu/desktopguide/pt_BR/terminals.html" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png">
+  </a>
+</code>
+<code>
+  <a href="https://dart.dev/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png">
+  </a>                                                                                                   
+</code>
+<code>
+  <a href="https://flutter.dev/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png">
+  </a>
+</code>
+
 
 ⭐️ **Contato:**
 - 💼 https://www.linkedin.com/in/guictonello/
